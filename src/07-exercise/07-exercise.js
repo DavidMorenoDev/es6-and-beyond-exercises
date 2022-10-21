@@ -10,8 +10,11 @@
  */
 
 // Finish the code of the function
-function exercise07() {
+function exercise07(a,b) {
     let func = "";
+    func = (a, b) => {
+         return a + b;
+    }
 
     // Don’t change the code bellow this line
     return func;

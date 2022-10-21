@@ -11,6 +11,10 @@
 // Finish the code of the function
 function exercise10() {
     const message = "hello-world";
+
+    const a = Array.from(message);
+
+    return a;
 }
 
 // Don’t change the code bellow this line
