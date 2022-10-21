@@ -18,7 +18,7 @@
 
 // Finish the code of the function
 function exercise04([a, b, c, d, e,f,g]) {
-    return index[1];
+    return b;
 }
 
 // Don’t change the code bellow this line
