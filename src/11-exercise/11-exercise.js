@@ -16,8 +16,8 @@
  */
 
 // Finish the code of the function
-function exercise11(aarray) {
-    const a = aarray.find(entry);
+function exercise11(aarray,entry) {
+    const a = aarray.find( e => e==entry );
     
     return a;
 }
